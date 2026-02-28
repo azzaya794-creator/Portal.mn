@@ -177,6 +177,7 @@ body {
     font-weight: bold;
     font-family: var(--font-okta);
     background: linear-gradient(90deg, #36fdde, #efb0fe);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
